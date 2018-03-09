@@ -1,3 +1,5 @@
+CLASS1 HOMEWORK
+
 /* To initialize a Git repository,octocat.txt is the name of the file */
 > git init
 	Initialized empty Git repository in /.git/	
